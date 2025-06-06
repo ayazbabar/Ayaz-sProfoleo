@@ -4,8 +4,7 @@ Welcome to my personal portfolio website! This project showcases my front-end de
 
 ## 🔥 Live Demo
 
-[🔗 View Live Portfolio](ayazsportfolio.netlify.app) *(Update this with your Netlify or GitHub Pages link)*
-
+[🔗 View Live Portfolio](ayazsportfolio.netlify.app) 
 ---
 
 ## 📁 Features
