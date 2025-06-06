@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my front-end de
 
 ## 🔥 Live Demo
 
-[🔗 View Live Portfolio](ayazsportfolio.netlify.app) 
+[🔗 View Live Portfolio](https://ayazsportfolio.netlify.app) 
 ---
 
 ## 📁 Features
@@ -52,6 +52,6 @@ Feel free to reach out if you'd like to collaborate or hire me for a frontend pr
 
 - 📧 Email: `ayazbabar4321@gmail.com`
 
-- 🌐 Portfolio Live Site: [View Portfolio](ayazsportfolio.netlify.app)
+- 🌐 Portfolio Live Site: [View Portfolio](https://ayazsportfolio.netlify.app)
 
 ---
